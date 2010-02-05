@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Groovy Spock</string>
+	<key>ordering</key>
+	<array>
+		<string>9518AE8E-F091-4F6E-8AB8-45EC8B816DF5</string>
+		<string>1DEF6A09-A294-4803-AA0A-29F2961C558D</string>
+		<string>6DA0E356-263F-4FC7-9D51-D6E82C060E3D</string>
+		<string>17491337-127C-462E-BE35-9567E29DD90C</string>
+		<string>118913DF-0A10-4F06-9508-2E6E01011382</string>
+		<string>B8ACA199-30CF-46EF-AD6A-EAA97F83011A</string>
+	</array>
+	<key>uuid</key>
+	<string>8225F413-B7A9-48EB-9673-4A04D566712E</string>
+</dict>
+</plist>
