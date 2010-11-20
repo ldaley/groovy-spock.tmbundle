@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>def setupSpec() {
+	$0
+}
+</string>
+	<key>name</key>
+	<string>setup spec</string>
+	<key>scope</key>
+	<string>source.groovy</string>
+	<key>tabTrigger</key>
+	<string>sus</string>
+	<key>uuid</key>
+	<string>DE83B9BD-6E99-4620-B204-455756515E36</string>
+</dict>
+</plist>
